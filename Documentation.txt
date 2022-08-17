@@ -1,0 +1,17 @@
+Overview
+This project was created for educational purposes after completing the Web applications development course. Because of my love for classic Nokia phones and their Composer application, I decided to choose the realization of Nokia Composer as a Web application as the topic of the project.
+The presented web application allows you to repeat the monophonic ringing of the melody as from the old Nokia 3310 and play the melody written by yourself using the control elements for entering musical notation.
+
+Interface
+On the right side of the user window is an image of the phone, on the screen of which you can see the created or selected melody. For convenience, an interface was created for editing/adding/deleting notes in the final melody, namely, you can choose a note, duration, pause, major, one of three octaves.
+
+Music
+The notes for the melody are entered in the “Selected Note” field. There is only a list of basic notes to choose from: “c d e f g a b”.
+The standard duration of the note is ¼, but it can be changed by adding a number before the note symbol: “1, 2, 4, 8, 16, 32”. A dot between the duration and the note halves the duration: “4.c = 2c”.
+You can also add a pause using “-”, as well as its duration: “2-”.
+A major note is marked with # and placed in front of the note using the “Make Sharp” button. Octaves 1-3 are placed after the note.
+The tempo is specified in the “Tempo” field.
+After editing a note, it can be added to the composition using the "Add Note" button, the "Clear Composition" button removes the created or selected composition from the phone screen.
+The "Play/Stop" button starts or completely stops playing the composition.
+The “Remove Last” button removes the last note added to the composition in case of mistakes when composing notes.
+The "Peek a song" drop-down list allows you to choose one of the already created songs and play it))

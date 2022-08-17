@@ -58,7 +58,6 @@ To use Nokia 3310 Music Composer user should follow next steps:
 – You can also add a pause with `–` as well as its duration: `2-`.\
 – Use the `Make Sharp` button to place a major note `#` in front of the note.\
 – Octaves 1-3 are placed after the note and can be chosen by provided buttons.\
-– The tempo is set in the `BPM` field.\
 – After editing a note, you can add the note to the composition with the `Add Note` button, while the `Clear Composition` button removes the created or chosen song from the phone screen.\
 – The `Remove Last` button removes the last note added to the song in case you make a mistake when composing notes :)\
 – `Play/Stop` button starts or completely stops playing the song.\
